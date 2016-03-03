@@ -7,6 +7,7 @@ layout: api
 
 Qordoba’s C# SDK offers platform-specific features that make the Qordoba API implementation much simpler. The SDK allows you to integrate our API with your application without worrying about low-level API details. Our C# SDK is open-source and can be forked at the link below. Once forked and configured, you will be able to easily integrate our API into your application.
 
+
 ### Get the SDK:
 
 Download the Objective-C API SDK from [GitHub](https://github.com/Qordobacode/api-sdk-c).
